@@ -1,0 +1,6 @@
+{
+  "name": "Safeguard Buddy",
+  "description": "A caring, safe, and friendly AI companion (Safeguard Buddy) for Pakistani children teaching body safety, stranger awareness, trusted adults, and parent dashboard with distress alerts and helplines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
