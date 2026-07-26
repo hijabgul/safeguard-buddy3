@@ -13,7 +13,7 @@ Children face real-world risks every day—from unsafe interactions and online t
 
 Instead of teaching safety through lectures or long reading materials, Safeguard Buddy transforms life-saving education into an engaging, interactive experience powered by AI, storytelling, games, and child-centered design.
 
-Our mission is simple:
+ my mission is simple:
 
 > **To help every child recognize danger, make safe decisions, and confidently seek help before an emergency happens.**
 
@@ -66,7 +66,7 @@ Parents also lack a centralized platform to monitor learning progress while rein
 
 ---
 
-# 🚀 Our Solution
+# 🚀 Solution
 
 Safeguard Buddy is an AI-powered child safety learning platform that makes safety education interactive, engaging, and age appropriate.
 
@@ -258,7 +258,7 @@ Safeguard Buddy follows secure authentication practices and protects sensitive i
 
 # ❤️ Vision
 
-We believe every child deserves access to practical safety education, regardless of where they live or how they learn.
+I believe every child deserves access to practical safety education, regardless of where they live or how they learn.
 
 Safeguard Buddy aims to become a trusted digital companion that helps children develop awareness, confidence, and lifelong safety habits through engaging technology and meaningful learning experiences.
 
