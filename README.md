@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+Check out the live app here: [safeguard-buddy3-production.up.railway.app](https://safeguard-buddy3-production.up.railway.app)
+
+
 # 🛡️ Safeguard Buddy
 
 > **Every child learns mathematics. Every child learns language. But what if the most important lesson they never learn is how to stay safe?**
@@ -234,6 +239,20 @@ Safeguard Buddy follows secure authentication practices and protects sensitive i
 * Parent analytics
 * Community safety resources
 * Personalized AI learning journeys
+
+ 
+* ## 📸 Screenshots
+
+ <img width="720" height="1454" alt="image" src="https://github.com/user-attachments/assets/a76a37fe-d671-4d65-a92f-cb7f270c4a3d" />
+ <img width="720" height="1354" alt="image" src="https://github.com/user-attachments/assets/44c626c3-cd90-4c99-9451-9c62eeff7f8e" />
+ <img width="720" height="1322" alt="image" src="https://github.com/user-attachments/assets/ee42581d-7650-414c-b5b1-6c03a48ec022" />
+<img width="720" height="1418" alt="image" src="https://github.com/user-attachments/assets/126cfd35-b3ea-4082-af58-7840fad1ddb6" />
+
+ 
+ <img width="720" height="1364" alt="image" src="https://github.com/user-attachments/assets/72530d62-fb1f-4b1f-9978-d083316a6641" />
+
+
+
 
 ---
 
