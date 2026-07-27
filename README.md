@@ -49,7 +49,6 @@ These include:
 
 * Stranger danger
 * Unsafe physical interactions
-* Online safety risks
 * Emergency situations
 * Emotional manipulation
 * Knowing when and how to ask trusted adults for help
@@ -102,7 +101,6 @@ The platform includes two dedicated experiences:
 
 * Body Safety
 * Stranger Safety
-* Internet Safety
 * Emergency Preparedness
 * Emotional Awareness
 * Trusted Adults
@@ -234,8 +232,7 @@ Safeguard Buddy follows secure authentication practices and protects sensitive i
 * AI voice conversations
 * Urdu voice narration
 * Regional language support
-* Offline learning mode
-* School partnerships
+* School partnersht
 * Parent analytics
 * Community safety resources
 * Personalized AI learning journeys
