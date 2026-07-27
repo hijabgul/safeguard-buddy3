@@ -247,7 +247,132 @@ Safeguard Buddy follows secure authentication practices and protects sensitive i
 
  
  <img width="720" height="1364" alt="image" src="https://github.com/user-attachments/assets/72530d62-fb1f-4b1f-9978-d083316a6641" />
+# ⚙️ How It Works
 
+Safeguard Buddy provides separate experiences for children and parents while personalizing learning based on the child's age.
+
+## User Journey
+
+```text
+                 Launch App
+                      │
+                      ▼
+             Sign In / Login
+                      │
+                      ▼
+          Select User Type (Parent)
+                      │
+                      ▼
+            Create Child Profile
+                      │
+                      ▼
+           Select Child's Age Group
+         (2–5 | 5–8 | 8–10 Years)
+                      │
+                      ▼
+             Choose an Avatar
+                      │
+                      ▼
+         Personalized Child Dashboard
+                      │
+     ┌──────────┬──────────┬──────────┐
+     │          │          │          │
+     ▼          ▼          ▼          ▼
+ Body Safety  Stories   AI Buddy   Mini Games
+     │          │          │          │
+     └──────────┴──────────┴──────────┘
+                      │
+                      ▼
+        Complete Lessons & Activities
+                      │
+                      ▼
+      Earn Rewards, Badges & Achievements
+                      │
+                      ▼
+       Learning Progress is Updated
+                      │
+                      ▼
+      Parent Dashboard Displays Progress
+```
+
+## Step-by-Step
+
+### 1️⃣ Parent Setup
+
+The parent creates an account and selects the child's age group to personalise the learning experience.
+
+---
+
+### 2️⃣ Child Onboarding
+
+The child chooses a fun avatar and enters a colourful, game-based dashboard designed specifically for their age.
+
+---
+
+### 3️⃣ Interactive Learning
+
+Children learn essential safety skills through:
+
+- Body Safety
+- Stranger Safety
+- Internet Safety
+- Emergency Preparedness
+- Story-Based Learning
+- Interactive Mini Games
+- AI Buddy Conversations
+
+Each activity teaches practical decision-making through engaging interactions rather than passive reading.
+
+---
+
+### 4️⃣ AI Buddy Assistance
+
+Children can ask questions naturally, such as:
+
+- "I'm scared."
+- "What should I do?"
+- "I got lost."
+
+The AI Buddy provides calm, age-appropriate guidance to help children understand safe actions.
+
+---
+
+### 5️⃣ Progress & Rewards
+
+As children complete lessons and games, they earn:
+
+- ⭐ XP
+- 🏅 Badges
+- 🎁 Rewards
+- 🔥 Daily Streaks
+
+These mechanics encourage regular engagement and reinforce positive learning.
+
+---
+
+### 6️⃣ Parent Dashboard
+
+Parents can monitor their child's progress through a dedicated dashboard, view completed lessons, identify areas for improvement, and access safety resources and emergency information.
+
+---
+
+## Core Learning Cycle
+
+```text
+Learn
+   │
+   ▼
+Play
+   │
+   ▼
+Practice
+   │
+   ▼
+Build Confidence
+   │
+   ▼
+Stay Safe
+```
 
 
 
