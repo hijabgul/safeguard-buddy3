@@ -247,6 +247,13 @@ Safeguard Buddy follows secure authentication practices and protects sensitive i
 
  
  <img width="720" height="1364" alt="image" src="https://github.com/user-attachments/assets/72530d62-fb1f-4b1f-9978-d083316a6641" />
+
+
+
+
+
+
+ 
 # ⚙️ How It Works
 
 Safeguard Buddy provides separate experiences for children and parents while personalizing learning based on the child's age.
