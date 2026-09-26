@@ -2,6 +2,10 @@
 
 Check out the live app here: [safeguard-buddy3-production.up.railway.app](https://safeguard-buddy3-production.up.railway.app)
 
+Check out the live app here: https://safeguardbudyyreal.netlify.app/
+
+
+
 
 # 🛡️ Safeguard Buddy
 
